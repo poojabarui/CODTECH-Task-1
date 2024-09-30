@@ -1,17 +1,13 @@
 # PassWordStrengthChecker
 Check the Strength of Password by lower &amp; upper characters, numeric and special character combination
 
-
+<pre>
 Name : POOJA BARUI
-
 Company : CODTECH IT SOLUTIONS
-
 iNTERN ID : CT6WDS1952
-
 Domain : CYBER SECURITY & ETHICAL HACKING
-
 Duration : SEPTEMBER 20TH,2024 TO NOVEMBER 5TH,2024
-
+</pre>
 
 
 # OVER VIEW OF PROJECT
